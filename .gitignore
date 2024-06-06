@@ -1,0 +1,11 @@
+/.vscode
+/back
+/entry.php
+/iz.crt
+/iz.key
+/rename.php
+/data.jdb
+ftp.php
+/natmap.*
+/test.*
+/reboot.task.php
